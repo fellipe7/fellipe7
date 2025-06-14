@@ -1,7 +1,7 @@
 <h1 align="center">Olá, eu sou Fellipe Eduardo 👋</h1>
 
 <p align="center">
-  Estudante de ADS • Futuro Desenvolvedor Fullstack • Apaixonado por tecnologia e aprendizado contínuo
+         Estudante de ADS • Futuro Desenvolvedor Fullstack • Apaixonado por tecnologia e aprendizado contínuo
 </p>
 
 ---
