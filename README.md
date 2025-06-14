@@ -34,17 +34,6 @@ Atualmente estou desenvolvendo projetos práticos enquanto me aprofundo em boas 
 
 ---
 
-### 📌 Projetos em destaque
-
-| Projeto               | Descrição                                           | Tecnologias                     |
-|-----------------------|-----------------------------------------------------|---------------------------------|
-| **Portfólio Pessoal** | Site com minhas habilidades, contato e projetos     | HTML, CSS, JS                   |
-| **To-Do List**        | Lista de tarefas com JavaScript puro                | JavaScript, DOM                 |
-| **API de Usuários**   | CRUD completo com autenticação                      | Node.js, Express, MySQL         |
-| **Landing Page Clone**| Página inspirada em site real com foco em layout    | HTML, CSS, responsividade       |
-
----
-
 ### 🎯 Objetivos atuais
 
 - Aprimorar meus conhecimentos em **React e Node.js**
