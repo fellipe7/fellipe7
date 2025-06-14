@@ -45,8 +45,8 @@ Atualmente estou desenvolvendo projetos práticos enquanto me aprofundo em boas 
 
 ### 📫 Entre em contato
 
-- [LinkedIn](https://linkedin.com/in/fellipeeduardo)
-- 📧 fellipe@email.com
+- [LinkedIn][(https://linkedin.com/in/fellipeeduardo](https://www.linkedin.com/in/fellipe-eduardo-bb5ba9291/))
+- 📧 fellipetn7@email.com
 - ⚙️ Em breve: [fellipeeduardo.dev](https://fellipeeduardo.dev)
 
 ---
